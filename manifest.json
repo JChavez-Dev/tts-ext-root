@@ -4,7 +4,10 @@
     "version": "1.0",
     "manifest_version": 3,
     "action": {
-      "default_popup": "popup/base.html",
-      "default_image" : "images/ChungusTTSIcon16.png"
+      "default_popup": "popup/base.html"
+    },
+    "icons": {
+      "16": "images/ChungusTTSIcon16.png",
+      "128": "images/ChungusTTSIconV1.png"
     }
   }
